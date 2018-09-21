@@ -3,29 +3,57 @@ import Router from 'vue-router'
 import Home from './views/Home.vue'
 
 Vue.use(Router)
-
+/*Home
+Over ons
+Aanpak
+Diensten
+Workshops
+Team
+Reserveren
+Projecten
+*/
 export default new Router({
   routes: [
     {
       path: '/',
       name: 'home',
-      component: Home
+      component: () => import('./views/Home.vue')
     },
     {
-      path: '/about',
-      name: 'about',
-      // route level code-splitting
-      // this generates a separate chunk (about.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
-      component: () => import(/* webpackChunkName: "about" */ './views/About.vue')
+      path: '/overOns',
+      name: 'overOns',
+      component: () => import('./views/OverOns.vue')
     },
     {
-      path: '/contact',
-      name: 'contact',
-      // route level code-splitting
-      // this generates a separate chunk (about.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
-      component: () => import(/* webpackChunkName: "about" */ './views/Contact.vue')
+      path: '/aanpak',
+      name: 'aanpak',
+      component: () => import('./views/Aanpak.vue')
+    },
+    {
+      path: '/diensten',
+      name: 'diensten',
+      component: () => import('./views/Diensten.vue')
+    },
+    {
+      path: '/workshops',
+      name: 'workshops',
+      component: () => import('./views/Workshops.vue')
+    },
+    {
+      path: '/team',
+      name: 'team',
+      component: () => import('./views/Team.vue')
+    },
+    {
+      path: '/reserveren',
+      name: 'reserveren',
+      component: () => import('./views/Reserveren.vue')
+    },
+    {
+      path: '/projecten',
+      name: 'projecten',
+      component: () => import('./views/Projecten.vue')
     }
+
   ]
 })
