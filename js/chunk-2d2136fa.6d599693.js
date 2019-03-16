@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2136fa"],{ad56:function(s,e,n){"use strict";n.r(e);var t=function(){var s=this,e=s.$createElement;s._self._c;return s._m(0)},o=[function(){var s=this,e=s.$createElement,n=s._self._c||e;return n("div",{staticClass:"workshops"},[n("h1",[s._v("This is a workshops page")])])}],a=n("2877"),r={},i=Object(a["a"])(r,t,o,!1,null,null,null);i.options.__file="Workshops.vue";e["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d2136fa.6d599693.js.map

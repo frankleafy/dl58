@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a3e8c"],{"03d7":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},s=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"projecten"},[t("h1",[e._v("This is an projecten page")])])}],r=t("2877"),a={},i=Object(r["a"])(a,c,s,!1,null,null,null);i.options.__file="Projecten.vue";n["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0a3e8c.740d1425.js.map

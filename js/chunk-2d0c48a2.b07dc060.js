@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c48a2"],{"3aec":function(e,n,s){"use strict";s.r(n);var t=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},a=[function(){var e=this,n=e.$createElement,s=e._self._c||n;return s("div",{staticClass:"overOns"},[s("h1",[e._v("This is an over ons page")])])}],c=s("2877"),r={},i=Object(c["a"])(r,t,a,!1,null,null,null);i.options.__file="OverOns.vue";n["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0c48a2.b07dc060.js.map

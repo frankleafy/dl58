@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a47fe"],{"0767":function(e,t,n){"use strict";n.r(t);var a=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},s=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"team"},[n("h1",[e._v("This is a team page")])])}],i=n("2877"),c={},l=Object(i["a"])(c,a,s,!1,null,null,null);l.options.__file="Team.vue";t["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0a47fe.4d238e6a.js.map

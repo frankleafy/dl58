@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0f1518"],{"9fb7":function(e,n,r){"use strict";r.r(n);var s=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},t=[function(){var e=this,n=e.$createElement,r=e._self._c||n;return r("div",{staticClass:"reserveren"},[r("h1",[e._v("This is an reserveren page")])])}],i=r("2877"),a={},c=Object(i["a"])(a,s,t,!1,null,null,null);c.options.__file="Reserveren.vue";n["default"]=c.exports}}]);
+//# sourceMappingURL=chunk-2d0f1518.eb87da0d.js.map
